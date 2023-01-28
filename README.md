@@ -1,2 +1,6 @@
 # feedback_form
-A simple HTML form that submits it content to a google sheet, you can see your submitted data here : https://docs.google.com/spreadsheets/d/1aNSPCSbHH9udOaO2JDsOPQawzf26HEODV8jQgexiQlg/edit?usp=sharing
+A simple HTML form that submits it content to a google sheet.
+
+you can see your submitted data here : https://docs.google.com/spreadsheets/d/1aNSPCSbHH9udOaO2JDsOPQawzf26HEODV8jQgexiQlg/edit?usp=sharing
+
+live demo : https://lucioew28.github.io/feedback_form/
